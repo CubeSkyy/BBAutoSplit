@@ -57,7 +57,7 @@ To create an image:
 Example:
 ![image](https://user-images.githubusercontent.com/16226383/233753780-9c8dbc5a-54b0-473a-b840-ad1d70ab26c6.png)
 
-2. Open the image with an editor, delete everything but the height text. I have better results by being very strict in the cropping.
+2. Open the image with an editor, delete everything but the height text. (If using Paint.NET, you can select the text, press `Ctrl+I` and delete). I have better results by being very strict in the cropping.
 Example:
 ![image](https://user-images.githubusercontent.com/16226383/233753909-00618c1c-8ce0-4fff-89dd-e176de9cad17.png)
 The output should be something like this:
