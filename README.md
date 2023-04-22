@@ -1,5 +1,7 @@
 # Beton Brutal AutoSplit
 
+![Split_example](https://user-images.githubusercontent.com/16226383/233757140-5b62897a-1534-4544-b99a-ea4e9d9e77dc.gif)
+
 This is an Auto Splitter for [Beton Brutal](https://store.steampowered.com/app/2330500/BETON_BRUTAL/). It uses AutoSplit by looking at a live recording of your game and match images of the height counter to figure out when to split in LiveSplit.
 Since it records your game, this might affect your performance. Playing at lower resolution or limiting AutoSplit FPS can help improve this.
 
