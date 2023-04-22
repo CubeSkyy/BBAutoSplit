@@ -5,6 +5,8 @@ Since it records your game, this might affect your performance. Playing at lower
 
 The images are simply screenshots of the game where everything but the height counter is transparent. AutoSplit will only compare the non-transparent pixels.
 
+This was all done by adapting [this tutorial](https://www.speedrun.com/ptle/guide/lnrso) to Beton Brutal. Refer to this if you want to know more about what is happening.
+
 ## Instalation
 1. Download [LiveSplit](https://livesplit.org/downloads/) and Extract it somewhere (Ex:`C:\Program Files (x86)`)
 2. Download [AutoSplit v1.6.1](https://github.com/Toufool/AutoSplit/releases/tag/v1.6.1) and extract it somewhere. I have mine inside the LiveSplit folder (`C:\Program Files (x86)`).
